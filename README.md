@@ -2,7 +2,7 @@
 
 **Manager Script Repositorio**
 
-* Un sistema operativo basado en Linux. Recomendamos Ubuntu 14.04
+* Un sistema operativo basado en Linux. Recomendamos Ubuntu 14.04-16.4
 * Se recomienda usar una distro nueva o formatiada.
 
 ## Installation
